@@ -17,26 +17,6 @@ export const Recipe = ({ title, calories, image, ingredients }) => {
           <li>{ingredient.text}</li>
         ))}
       </ul>
-      <p>
-        <ul>
-          <li>
-            <a href="">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-          <li>
-            <a href="">
-              <i class="fab fa-linkedin"></i>
-            </a>
-          </li>
-          <li>
-            <a href="">
-              {" "}
-              <i class="fas fa-code"></i>
-            </a>
-          </li>
-        </ul>
-      </p>
     </div>
   );
 };
