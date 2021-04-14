@@ -9,7 +9,7 @@
 <section>
   <h1> Usage and setup </h1>
     <ul>
-      <li> Run npm install </li>
+      <li> Run <strong> npm install </strong>  </li>
       <li> To run the dev server. Run npm start </li>
   </ul>
   </section>
